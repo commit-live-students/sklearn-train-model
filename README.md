@@ -1,4 +1,5 @@
-# Train a linear ligression model using X and y and claculate `mean squares error` by predicting the value of y using X.
+# Train a linear ligression model 
+Use X and y and claculate `mean squares error` by predicting the value of y using X.
 
 ## Write a function called `myLinearModel()`:
 
